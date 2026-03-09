@@ -1,0 +1,8 @@
+# Exclude executable files
+*.exe
+
+# You can also add other temporary or system files
+*.log
+__pycache__/
+*.pyc
+.DS_Store
